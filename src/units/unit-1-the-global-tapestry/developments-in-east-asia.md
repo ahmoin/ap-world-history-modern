@@ -1,5 +1,10 @@
 # Developments in East Asia (950-1280)
 
+![](/images/developments-in-east-asia-1.png)
+![](/images/developments-in-east-asia-2.png)
+
+Source: [AP World History Course and Exam Description](https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf)
+
 ## Song Dynasty (950-1280)
 
 Chinese Dynasties
