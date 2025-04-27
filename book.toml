@@ -1,0 +1,6 @@
+[book]
+authors = ["ahmoin"]
+language = "en"
+multilingual = false
+src = "src"
+title = "AP World History: Modern"
